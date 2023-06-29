@@ -1,5 +1,4 @@
-# ames_interpretability
-Uncertainty aware and explainable Bayesian neural network for prediction of Ames mutagenicity
+# Uncertainty aware and explainable Bayesian neural network for prediction of Ames mutagenicity
 
 Official repository for the paper "Model explanation methods can reproduce structural alerts in Bayesian neural networks for risk assessment of mutagenicity"
 
